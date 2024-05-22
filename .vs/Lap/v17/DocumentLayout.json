@@ -1,0 +1,471 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB52956B-763F-4B76-85B0-277D55E9D245}|Lap3\\Lap3.csproj|d:\\hk_summer_2024\\block_1\\c# 5\\lap\\lap3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB52956B-763F-4B76-85B0-277D55E9D245}|Lap3\\Lap3.csproj|solutionrelative:lap3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB52956B-763F-4B76-85B0-277D55E9D245}|Lap3\\Lap3.csproj|d:\\hk_summer_2024\\block_1\\c# 5\\lap\\lap3\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB52956B-763F-4B76-85B0-277D55E9D245}|Lap3\\Lap3.csproj|solutionrelative:lap3\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB52956B-763F-4B76-85B0-277D55E9D245}|Lap3\\Lap3.csproj|d:\\hk_summer_2024\\block_1\\c# 5\\lap\\lap3\\migrations\\20240522092057_lap3-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB52956B-763F-4B76-85B0-277D55E9D245}|Lap3\\Lap3.csproj|solutionrelative:lap3\\migrations\\20240522092057_lap3-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB52956B-763F-4B76-85B0-277D55E9D245}|Lap3\\Lap3.csproj|d:\\hk_summer_2024\\block_1\\c# 5\\lap\\lap3\\controllers\\productviewmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB52956B-763F-4B76-85B0-277D55E9D245}|Lap3\\Lap3.csproj|solutionrelative:lap3\\controllers\\productviewmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2037C0-9BF7-4DEF-A66C-29A5D84BFB43}|Lap2\\Lap2.csproj|d:\\hk_summer_2024\\block_1\\c# 5\\lap\\lap2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB2037C0-9BF7-4DEF-A66C-29A5D84BFB43}|Lap2\\Lap2.csproj|solutionrelative:lap2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB52956B-763F-4B76-85B0-277D55E9D245}|Lap3\\Lap3.csproj|d:\\hk_summer_2024\\block_1\\c# 5\\lap\\lap3\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB52956B-763F-4B76-85B0-277D55E9D245}|Lap3\\Lap3.csproj|solutionrelative:lap3\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB52956B-763F-4B76-85B0-277D55E9D245}|Lap3\\Lap3.csproj|d:\\hk_summer_2024\\block_1\\c# 5\\lap\\lap3\\models\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB52956B-763F-4B76-85B0-277D55E9D245}|Lap3\\Lap3.csproj|solutionrelative:lap3\\models\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB52956B-763F-4B76-85B0-277D55E9D245}|Lap3\\Lap3.csproj|d:\\hk_summer_2024\\block_1\\c# 5\\lap\\lap3\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB52956B-763F-4B76-85B0-277D55E9D245}|Lap3\\Lap3.csproj|solutionrelative:lap3\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap3\\Migrations\\20240522090400_lap3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lap3\\Migrations\\20240522090400_lap3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB52956B-763F-4B76-85B0-277D55E9D245}|Lap3\\Lap3.csproj|d:\\hk_summer_2024\\block_1\\c# 5\\lap\\lap3\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB52956B-763F-4B76-85B0-277D55E9D245}|Lap3\\Lap3.csproj|solutionrelative:lap3\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB52956B-763F-4B76-85B0-277D55E9D245}|Lap3\\Lap3.csproj|d:\\hk_summer_2024\\block_1\\c# 5\\lap\\lap3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB52956B-763F-4B76-85B0-277D55E9D245}|Lap3\\Lap3.csproj|solutionrelative:lap3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB52956B-763F-4B76-85B0-277D55E9D245}|Lap3\\Lap3.csproj|d:\\hk_summer_2024\\block_1\\c# 5\\lap\\lap3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB52956B-763F-4B76-85B0-277D55E9D245}|Lap3\\Lap3.csproj|solutionrelative:lap3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2037C0-9BF7-4DEF-A66C-29A5D84BFB43}|Lap2\\Lap2.csproj|d:\\hk_summer_2024\\block_1\\c# 5\\lap\\lap2\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2037C0-9BF7-4DEF-A66C-29A5D84BFB43}|Lap2\\Lap2.csproj|solutionrelative:lap2\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358F9EAD-6863-4EEB-A057-413ED35FBA44}|Lap\\Lap.csproj|d:\\hk_summer_2024\\block_1\\c# 5\\lap\\lap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358F9EAD-6863-4EEB-A057-413ED35FBA44}|Lap\\Lap.csproj|solutionrelative:lap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2037C0-9BF7-4DEF-A66C-29A5D84BFB43}|Lap2\\Lap2.csproj|d:\\hk_summer_2024\\block_1\\c# 5\\lap\\lap2\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2037C0-9BF7-4DEF-A66C-29A5D84BFB43}|Lap2\\Lap2.csproj|solutionrelative:lap2\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap2\\Migrations\\20240522064623_lap2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lap2\\Migrations\\20240522064623_lap2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358F9EAD-6863-4EEB-A057-413ED35FBA44}|Lap\\Lap.csproj|d:\\hk_summer_2024\\block_1\\c# 5\\lap\\lap\\infomationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358F9EAD-6863-4EEB-A057-413ED35FBA44}|Lap\\Lap.csproj|solutionrelative:lap\\infomationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358F9EAD-6863-4EEB-A057-413ED35FBA44}|Lap\\Lap.csproj|d:\\hk_summer_2024\\block_1\\c# 5\\lap\\lap\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358F9EAD-6863-4EEB-A057-413ED35FBA44}|Lap\\Lap.csproj|solutionrelative:lap\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358F9EAD-6863-4EEB-A057-413ED35FBA44}|Lap\\Lap.csproj|d:\\hk_summer_2024\\block_1\\c# 5\\lap\\lap\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358F9EAD-6863-4EEB-A057-413ED35FBA44}|Lap\\Lap.csproj|solutionrelative:lap\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2037C0-9BF7-4DEF-A66C-29A5D84BFB43}|Lap2\\Lap2.csproj|d:\\hk_summer_2024\\block_1\\c# 5\\lap\\lap2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2037C0-9BF7-4DEF-A66C-29A5D84BFB43}|Lap2\\Lap2.csproj|solutionrelative:lap2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358F9EAD-6863-4EEB-A057-413ED35FBA44}|Lap\\Lap.csproj|d:\\hk_summer_2024\\block_1\\c# 5\\lap\\lap\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{358F9EAD-6863-4EEB-A057-413ED35FBA44}|Lap\\Lap.csproj|solutionrelative:lap\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2037C0-9BF7-4DEF-A66C-29A5D84BFB43}|Lap2\\Lap2.csproj|d:\\hk_summer_2024\\block_1\\c# 5\\lap\\lap2\\lap2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB2037C0-9BF7-4DEF-A66C-29A5D84BFB43}|Lap2\\Lap2.csproj|solutionrelative:lap2\\lap2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap\\Migrations\\20240522062034_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lap\\Migrations\\20240522062034_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358F9EAD-6863-4EEB-A057-413ED35FBA44}|Lap\\Lap.csproj|d:\\hk_summer_2024\\block_1\\c# 5\\lap\\lap\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358F9EAD-6863-4EEB-A057-413ED35FBA44}|Lap\\Lap.csproj|solutionrelative:lap\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358F9EAD-6863-4EEB-A057-413ED35FBA44}|Lap\\Lap.csproj|d:\\hk_summer_2024\\block_1\\c# 5\\lap\\lap\\lap.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{358F9EAD-6863-4EEB-A057-413ED35FBA44}|Lap\\Lap.csproj|solutionrelative:lap\\lap.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240522092057_lap3-1.cs",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap3\\Migrations\\20240522092057_lap3-1.cs",
+              "RelativeDocumentMoniker": "Lap3\\Migrations\\20240522092057_lap3-1.cs",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap3\\Migrations\\20240522092057_lap3-1.cs",
+              "RelativeToolTip": "Lap3\\Migrations\\20240522092057_lap3-1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:20:57.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductViewModelsController.cs",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap3\\Controllers\\ProductViewModelsController.cs",
+              "RelativeDocumentMoniker": "Lap3\\Controllers\\ProductViewModelsController.cs",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap3\\Controllers\\ProductViewModelsController.cs",
+              "RelativeToolTip": "Lap3\\Controllers\\ProductViewModelsController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:20:13.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap3\\Models\\ProductService.cs",
+              "RelativeDocumentMoniker": "Lap3\\Models\\ProductService.cs",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap3\\Models\\ProductService.cs",
+              "RelativeToolTip": "Lap3\\Models\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:16:36.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap3\\Models\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "Lap3\\Models\\ProductViewModel.cs",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap3\\Models\\ProductViewModel.cs",
+              "RelativeToolTip": "Lap3\\Models\\ProductViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:15:58.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap3\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Lap3\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap3\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Lap3\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:05:50.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap3\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Lap3\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap3\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Lap3\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:25:05.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap3\\appsettings.json",
+              "RelativeDocumentMoniker": "Lap3\\appsettings.json",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap3\\appsettings.json",
+              "RelativeToolTip": "Lap3\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T08:21:12.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap3\\Program.cs",
+              "RelativeDocumentMoniker": "Lap3\\Program.cs",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap3\\Program.cs",
+              "RelativeToolTip": "Lap3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:21:07.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap3\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Lap3\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap3\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Lap3\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:20:43.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap3\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Lap3\\Models\\Student.cs",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap3\\Models\\Student.cs",
+              "RelativeToolTip": "Lap3\\Models\\Student.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:02:58.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240522064623_lap2.cs",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap2\\Migrations\\20240522064623_lap2.cs",
+              "RelativeDocumentMoniker": "Lap2\\Migrations\\20240522064623_lap2.cs",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap2\\Migrations\\20240522064623_lap2.cs",
+              "RelativeToolTip": "Lap2\\Migrations\\20240522064623_lap2.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:46:23.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap2\\appsettings.json",
+              "RelativeDocumentMoniker": "Lap2\\appsettings.json",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap2\\appsettings.json",
+              "RelativeToolTip": "Lap2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T06:25:57.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240522090400_lap3.cs",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap3\\Migrations\\20240522090400_lap3.cs",
+              "RelativeDocumentMoniker": "Lap3\\Migrations\\20240522090400_lap3.cs",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap3\\Migrations\\20240522090400_lap3.cs",
+              "RelativeToolTip": "Lap3\\Migrations\\20240522090400_lap3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:04:01.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap2\\Program.cs",
+              "RelativeDocumentMoniker": "Lap2\\Program.cs",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap2\\Program.cs",
+              "RelativeToolTip": "Lap2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:26:08.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap2\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Lap2\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap2\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Lap2\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:25:14.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class.cs",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap2\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "Lap2\\Models\\Class.cs",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap2\\Models\\Class.cs",
+              "RelativeToolTip": "Lap2\\Models\\Class.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:23:37.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap\\Employee.cs",
+              "RelativeDocumentMoniker": "Lap\\Employee.cs",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap\\Employee.cs",
+              "RelativeToolTip": "Lap\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:17:08.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap\\Department.cs",
+              "RelativeDocumentMoniker": "Lap\\Department.cs",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap\\Department.cs",
+              "RelativeToolTip": "Lap\\Department.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:14:32.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap\\Program.cs",
+              "RelativeDocumentMoniker": "Lap\\Program.cs",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap\\Program.cs",
+              "RelativeToolTip": "Lap\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:57:48.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "infomationDbContext.cs",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap\\infomationDbContext.cs",
+              "RelativeDocumentMoniker": "Lap\\infomationDbContext.cs",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap\\infomationDbContext.cs",
+              "RelativeToolTip": "Lap\\infomationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:00:04.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Information.cs",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap\\Information.cs",
+              "RelativeDocumentMoniker": "Lap\\Information.cs",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap\\Information.cs",
+              "RelativeToolTip": "Lap\\Information.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:59:20.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap\\appsettings.json",
+              "RelativeDocumentMoniker": "Lap\\appsettings.json",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap\\appsettings.json",
+              "RelativeToolTip": "Lap\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T05:55:37.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240522062034_InitialCreate.cs",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap\\Migrations\\20240522062034_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Lap\\Migrations\\20240522062034_InitialCreate.cs",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap\\Migrations\\20240522062034_InitialCreate.cs",
+              "RelativeToolTip": "Lap\\Migrations\\20240522062034_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:20:34.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Lap2",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap2\\Lap2.csproj",
+              "RelativeDocumentMoniker": "Lap2\\Lap2.csproj",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap2\\Lap2.csproj",
+              "RelativeToolTip": "Lap2\\Lap2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T05:53:12.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Lap",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap\\Lap.csproj",
+              "RelativeDocumentMoniker": "Lap\\Lap.csproj",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\Lap\\Lap\\Lap.csproj",
+              "RelativeToolTip": "Lap\\Lap.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T05:51:40.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1858,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
